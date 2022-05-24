@@ -1,10 +1,10 @@
 const hour = new Date().getHours(); 
 let greeting;
 
-if (hour < 90) {
-greeting = "Good day";
+if (hour < 18) {
+greeting = "Bad day";
 } else {
-greeting = "Good evening";
+greeting = "Bad evening";
 }
 
 console.log("greating", greeting);
