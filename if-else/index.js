@@ -4,7 +4,7 @@ let greeting;
 if (hour < 18) {
 greeting = "Bad day";
 } else {
-greeting = "Bad evening";
+greeting = "Baaad evening";
 }
 
 console.log("greating", greeting);

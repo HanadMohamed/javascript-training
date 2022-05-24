@@ -1,4 +1,2 @@
 // JS course repo first file !!!!!
-<script>
-
-</script>
+console.log("Yo");
